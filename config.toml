@@ -1,0 +1,12 @@
+title = "Tiago Ventura"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "Redirect Website"
+  copyright = ""
+  dark = "auto"
+  highlight = true
